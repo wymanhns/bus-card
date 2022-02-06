@@ -6,7 +6,7 @@ This Lovelace custom card displays Bus data from the public api for a given stop
 
 This is designed to work with the translink sensor: https://github.com/wymanhns/HKBUS-Sensor
 
-![Preview](https://github.com/wymanhns/bus-card/blob/master/BUS_Card.png?raw=true)
+![Preview](https://github.com/wymanhns/bus-card/blob/main/BUS_Card.png?raw=true)
 
 
 
