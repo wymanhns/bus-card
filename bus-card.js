@@ -101,4 +101,4 @@ class BusCard extends HTMLElement {
 
 }
   
-customElements.define('Bus-card', BusCard);
+customElements.define('bus-card', BusCard);
