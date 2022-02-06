@@ -1,4 +1,4 @@
-class TranslinkCard extends HTMLElement {
+class BusCard extends HTMLElement {
     set hass(hass) {
         if (!this.content) {
         const card = document.createElement('ha-card');
@@ -101,4 +101,4 @@ class TranslinkCard extends HTMLElement {
 
 }
   
-customElements.define('translink-card', TranslinkCard);
+customElements.define('Bus-card', BusCard);
