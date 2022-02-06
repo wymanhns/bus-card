@@ -63,7 +63,7 @@ class BusCard extends HTMLElement {
                     //if(hass.states[item["entity"]].attributes.next_bus_countdown){
                         tmpcontent = tmpcontent + `
                             <div class="bus_times_header"> 
-                                <div class="bus_times_header_route">${hass.states[item["entity"]].attributes.route_number} ${hass.states[item["entity"]].attributes.rmk_tc}</div>
+                                <div class="bus_times_header_route">${hass.states[item["entity"]].attributes.route_number}${hass.states[item["entity"]].attributes.rmk_tc}</div>
                                 <div class="bus_times_header_countdown">下班車約 ${hass.states[item["entity"]].attributes.next_bus_countdown} 分鐘</div>
                             </div>
                             <div class="bus_times">
