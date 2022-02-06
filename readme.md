@@ -25,7 +25,7 @@ resources:
 
 1. Go to the community tab of your home assistant installation
 2. Click settings
-3. Add "https://github.com/wymanhns/bus-card" with the type **Plugin**
+3. Add "https://github.com/wymanhns/bus-card" with the type **Lovelace**
 4. Click Save
 
 ###  Using the card
